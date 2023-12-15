@@ -1,0 +1,4 @@
+use-conda: true
+conda-prefix: "~/.conda/.snakemake"
+
+use-envmodules: true
